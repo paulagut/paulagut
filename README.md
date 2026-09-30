@@ -2,14 +2,10 @@
 
 ## 😊 About me
 
-- 🎓 **Data Science and Engineering** graduate (2025), degree taught in English.
-- 💼 Junior Software Developer at **Sopra Steria**, French Services Center (based in Spain).
-- 🤖 I want to build things at the intersection of **AI / Machine Learning** and real products.
+- 🎓 I studied **Data Science and Engineering**.
+- 💼 Currently working as a Junior Software Developer at **Sopra Steria**, French Services Center (based in Spain).
+- 🤖 I am passionate about Machine Learning, more specifically, **Computer Vision** and **Deep Learning**.
 - 🐍 Co-founded a **Python community** at my company with 3 colleagues: I run demos and trainings.
-- 🎙️ Part of **InnovAI**, a student innovation association, where we built an AI-news podcast narrated with ElevenLabs.
-- 👩‍🏫 Mentor in a **Women in STEM** gymkana for secondary-school girls.
-
-<!-- Optional: add a line about what you're learning now (e.g. Azure, Docker, MLOps) -->
 
 ## 🛠️ Languages & tools
 
@@ -17,7 +13,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Add only what you really use: SQL, Docker, Azure, PyTorch, scikit-learn, R... -->
 
 ## 👩🏻‍💻 Some of my projects
 
