@@ -13,12 +13,17 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=database&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 👩🏻‍💻 Some of my projects
 
 | Project | Description |
 | --- | --- |
 | **[🚁 Drone collision avoidance (Bachelor's thesis)](https://github.com/franjgs/VisualCollisionAvoidance)** | Collision avoidance system for autonomous drones using an on-board camera. <!-- add: what you did, model/approach, result --> |
+| **[👑 Multimodal-pipeline](https://github.com/paulagut/ChallengeMujeresIA)** | Built a multimodal pipeline for a Challenge where it analyses the participation of women in technological speeches or panels. <!-- add: main features --> |
 | **[📚 ClubLectura_app](https://github.com/paulagut/reading_club)** | Book club web app built with Django, developed following the BMAD methodology with Claude Code. <!-- add: main features --> |
 | **[🎮 Chronos-Odyssey](https://github.com/paulagut/Chronos-Odyssey)** | Video game built as a team project with classmates. <!-- add: engine/language, your role --> |
 | **[📊 Supervised learning study](https://github.com/paulagut/StatisticalL_Supervised)** | <!-- one line: dataset, models compared, main finding --> |
